@@ -1,8 +1,8 @@
 # To-Do List
 
 ## Introducción
-El presente proyecto fue realizado con el fin de piner en práctica algunas de las herramientas dadas en clase en este curso. 
-En este caso, se me ocurrió la idea de simular una aplicación de To-Do List utilizando Cola de Prioridades y Listas enlazadas ordenadas, implementándolo desde el TDA previsto en clase.
+El presente proyecto fue realizado con el fin de poner en práctica algunas de las herramientas brindadas por las diferentes estructuras de datos. 
+En este caso, se me ocurrió la idea de simular una aplicación de To-Do List utilizando Cola de Prioridades y Listas enlazadas ordenadas.
 Una dificultad extra que decidí agregarle a este proyecto es el requisito de que, no importa la modificación que se realice sobre las tareas, estas deben estar ordenadas por prioridad.
 
 ## Funcionalidades
